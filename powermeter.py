@@ -1,5 +1,4 @@
 import pyvisa as visa
-import numpy as np  
 
 class powermeter:
     def __init__(self):

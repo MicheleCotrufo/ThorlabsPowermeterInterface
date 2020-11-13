@@ -9,8 +9,8 @@ A module to connect and collect data from a Thorlabs powermeter, based on py-vis
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+See the file UsageExample.py for examples
 
-The software automatically looks for any oscilloscope and/or powermeter connected to the computer. The devices are recognized as scopes or powermeters by looking for keywords in the string that they send after the query '*IDN?' (see code of files instruments/scope.py and instruments/powermeter.py). The dropdown lists labeled 'Device list:' in the 'Scope settings' and 'Powermeter settings' panels are populated with the corresponding devices found. Each list can be refreshed at any moment by clicking the corresponding 'Refresh' button. After a device is selected, connection can be established by clicking on 'Connect'. If connection is succesful, the corresponding 'Connect' button will turn its caption into 'Disconnect'.
 <!-- LICENSE -->
 ## License
 

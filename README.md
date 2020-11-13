@@ -1,5 +1,5 @@
 # ThorlabsPowermeterInterface
-A module to connect and collect data from a Thorlabs powermeter, based on py-visa and NI-VISA
+A module to connect and collect data from a Thorlabs powermeter, based on py-visa
 
 ### Installation
 

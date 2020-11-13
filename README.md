@@ -10,8 +10,3 @@ A module to connect and collect data from a Thorlabs powermeter, based on the li
 
 See the file UsageExample.py for examples
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
